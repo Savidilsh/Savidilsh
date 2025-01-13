@@ -10,16 +10,22 @@
 
 ### Connect with me:
 <p align="left">
-<a href="[www.linkedin.com/in/savindu-dilshan-wickramasinghe-3b8205287]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="[Savindu Wickramasinghe]" height="30" width="40" /></a>
-<a href="[[your-facebook](https://www.facebook.com/profile.php?id=61553243222858&mibextid=ZbWKwL)]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="[Savindu Dilshan]" height="30" width="40" /></a>
-<a href="[[your-instagram](https://instagram.com/__savidilsh__?igshid=OGQ5ZDc2ODk2ZA==)]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="[Savidilsh]" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/savindu-dilshan-wickramasinghe-3b8205287" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" style="color:#0A66C2;" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61553243222858" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" height="30" width="40" style="color:#1877F2;" />
+  </a>
+  <a href="https://instagram.com/__savidilsh__?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="30" width="40" style="color:#E4405F;" />
+  </a>
 </p>
 
 ### Languages and Tools:
 <p align="left">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/arduino.svg" alt="arduino" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/matlab.svg" alt="matlab" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="python" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/arduino.svg" alt="Arduino" width="40" height="40" style="color:#00979C;" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/matlab.svg" alt="MATLAB" width="40" height="40" style="color:#0076A8;" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" alt="Python" width="40" height="40" style="color:#3776AB;" />
 </p>
 
 ### My Stats:
