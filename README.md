@@ -11,24 +11,19 @@
 ### Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/savindu-dilshan-wickramasinghe-3b8205287" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" style="color:#0A66C2;" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=61553243222858" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" height="30" width="40" style="color:#1877F2;" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_(2019).svg" alt="Facebook" height="40" width="40" />
   </a>
   <a href="https://instagram.com/__savidilsh__?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="30" width="40" style="color:#E4405F;" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="40" width="40" />
   </a>
 </p>
 
 ### Languages and Tools:
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/arduino.svg" alt="Arduino" width="40" height="40" style="color:#00979C;" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" alt="Python" width="40" height="40" style="color:#3776AB;" />
-</p>
-
-### My Stats:
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Savidilsh&" alt="Savidilsh" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />
 </p>
