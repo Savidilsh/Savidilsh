@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=[your-username]&label=Profile%20views&color=0e75b6&style=flat" alt="[your-username]" /> </p>
 
-- 🔭 I’m currently working on **[ML with Rasberrypi]**
+- 💡 I’m currently working on **[ML with Rasberrypi]**
 - 🌱 I’m currently learning **[Electronic and Telecommunication (BSc) ]**
 - 💬 Ask me about **[Robotics, C++]**
 - 📫 How to reach me **[savindudilshan124@gmail.com]**
