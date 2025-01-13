@@ -30,5 +30,5 @@
 
 ### My Stats:
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[your-username]&" alt="[your-username]" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Savidilsh&" alt="Savidilsh" />
 </p>
