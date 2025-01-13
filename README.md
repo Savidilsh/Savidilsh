@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, I'm Savindu Wickramasinghe</h1>
 <h3 align="center">[Hi 👋, I'm Savindu, an undergraduate from the Department of Electronic and Telecommunication Engineering at the University of Moratuwa , Srilanka. I'm passionate about exploring and working on projects in Artificial Intelligence and Machine Learning, striving to make a meaningful impact through cutting-edge technologies.]</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=[your-username]&label=Profile%20views&color=0e75b6&style=flat" alt="[your-username]" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=[Savidilsh]&label=Profile%20views&color=0e75b6&style=flat" alt="[Savidilsh]" /> </p>
 
 - 💡 I’m currently working on **[ML with Rasberrypi]**
 - 🌱 I’m currently learning **[Electronic and Telecommunication (BSc) ]**
