@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">[A brief description about you, e.g., "An Undergraduate from [Country] specializing in ..."]</h3>
+<h1 align="center">Hola 👋, I'm Savindu Wickramasinghe</h1>
+<h3 align="center">[Hi 👋, I'm Savindu, an undergraduate from the Department of Electronic and Telecommunication Engineering at the University of Moratuwa , Srilanka. I'm passionate about exploring and working on projects in Artificial Intelligence and Machine Learning, striving to make a meaningful impact through cutting-edge technologies.]</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=[your-username]&label=Profile%20views&color=0e75b6&style=flat" alt="[your-username]" /> </p>
 
-- 🔭 I’m currently working on **[Project/Subject details]**
-- 🌱 I’m currently learning **[Tools/Technologies you are exploring, e.g., SolidWorks]**
-- 💬 Ask me about **[Topics you are knowledgeable about, e.g., robotics, C++]**
-- 📫 How to reach me **[Your email address]**
+- 🔭 I’m currently working on **[ML with Rasberrypi]**
+- 🌱 I’m currently learning **[Electronic and Telecommunication (BSc) ]**
+- 💬 Ask me about **[Robotics, C++]**
+- 📫 How to reach me **[savindudilshan124@gmail.com]**
 
 ### Connect with me:
 <p align="left">
-<a href="[your-linkedin]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="[LinkedIn Username]" height="30" width="40" /></a>
+<a href="[your-linkedin]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="[Savindu Wickramasinghe]" height="30" width="40" /></a>
 <a href="[your-facebook]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="[Facebook Username]" height="30" width="40" /></a>
 <a href="[your-instagram]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="[Instagram Username]" height="30" width="40" /></a>
 </p>
