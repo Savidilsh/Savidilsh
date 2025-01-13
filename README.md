@@ -24,7 +24,7 @@
 ### Languages and Tools:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/arduino.svg" alt="Arduino" width="40" height="40" style="color:#00979C;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/matlab.svg" alt="MATLAB" width="40" height="40" style="color:#0076A8;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" alt="Python" width="40" height="40" style="color:#3776AB;" />
 </p>
 
