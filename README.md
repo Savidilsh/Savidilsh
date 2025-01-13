@@ -10,9 +10,9 @@
 
 ### Connect with me:
 <p align="left">
-<a href="[your-linkedin]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="[Savindu Wickramasinghe]" height="30" width="40" /></a>
-<a href="[your-facebook]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="[Facebook Username]" height="30" width="40" /></a>
-<a href="[your-instagram]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="[Instagram Username]" height="30" width="40" /></a>
+<a href="[www.linkedin.com/in/savindu-dilshan-wickramasinghe-3b8205287]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="[Savindu Wickramasinghe]" height="30" width="40" /></a>
+<a href="[[your-facebook](https://www.facebook.com/profile.php?id=61553243222858&mibextid=ZbWKwL)]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="[Savindu Dilshan]" height="30" width="40" /></a>
+<a href="[[your-instagram](https://instagram.com/__savidilsh__?igshid=OGQ5ZDc2ODk2ZA==)]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="[Savidilsh]" height="30" width="40" /></a>
 </p>
 
 ### Languages and Tools:
